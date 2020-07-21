@@ -1,6 +1,6 @@
 ### RIDDHESH JANGID
 ##### :snake: SNAKODE
- *Hello there! I am a* :computer: *Fullstack Developer and a Tech Geek*
+ *I am a* :computer: *Fullstack Developer and a Tech Geek*
  <hr/>
  
 ![React](https://raw.githubusercontent.com/snakode/snakode/master/react.png)![Python](https://raw.githubusercontent.com/snakode/snakode/master/python.png)![Linux](https://raw.githubusercontent.com/snakode/snakode/master/linux.png)![Django](https://raw.githubusercontent.com/snakode/snakode/master/django.png)
