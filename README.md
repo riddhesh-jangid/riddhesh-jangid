@@ -11,5 +11,5 @@
 
 :guitar: Run my fingers on guitar <br/> 
 :pencil: Try to build rhymes <br/> 
-:soccer: Outdoor games <br/> 
+:soccer: Football and Cricket <br/> 
 :scroll: Learning new skills <br/> 
