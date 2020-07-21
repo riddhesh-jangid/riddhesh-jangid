@@ -9,7 +9,7 @@
 
 ## Things I like to do
 
-<p >:guitar: Run my fingers on guitar </p> 
-<p >:pencil: Try to build rhymes </p> 
-<p >:soccer: Outdoor games </p> 
-<p >:scroll: Learning new skills </p> 
+:guitar: Run my fingers on guitar <br/> 
+:pencil: Try to build rhymes <br/> 
+:soccer: Outdoor games <br/> 
+:scroll: Learning new skills <br/> 
