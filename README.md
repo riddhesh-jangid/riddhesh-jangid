@@ -7,6 +7,6 @@
 
 ![Ethereum](https://raw.githubusercontent.com/snakode/snakode/master/ethereum.png)![Javascript](https://raw.githubusercontent.com/snakode/snakode/master/javascript.png)![Chrome](https://raw.githubusercontent.com/snakode/snakode/master/chrome.png)![Gimp](https://raw.githubusercontent.com/snakode/snakode/master/gimp.png)
 
-### Things I like to do
----
+## Things I like to do
+
 :guitar: Run my fingers on guitar
