@@ -10,3 +10,6 @@
 ## Things I like to do
 
 :guitar: Run my fingers on guitar
+:pencil: Try to build rhymes
+:soccer: Outdoor games
+:scroll: Learning new skills
