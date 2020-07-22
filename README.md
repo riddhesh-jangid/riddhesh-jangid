@@ -1,4 +1,4 @@
-### RIDDHESH JANGID
+# RIDDHESH JANGID
 ##### :snake: SNAKODE
  *I am a* :computer: *Fullstack Developer and a Tech Geek*
  <hr/>
