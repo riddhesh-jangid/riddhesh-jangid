@@ -15,4 +15,4 @@
 :scroll: Learning new skills <br/> 
 
 ## Social Connectivity
-[![Linkedin](https://raw.githubusercontent.com/snakode/snakode/master/linkedin.png)](https://www.linkedin.com/in/riddhesh-jangid-27b90814a/) [![Gmail](https://raw.githubusercontent.com/snakode/snakode/master/gmail.png)](mailto:riddhesh710@gmail.com)
+[![Linkedin](https://raw.githubusercontent.com/snakode/snakode/master/linkedin.png)](https://www.linkedin.com/in/riddhesh-jangid-27b90814a/) [![Gmail](https://raw.githubusercontent.com/snakode/snakode/master/gmail.png)](mailto:riddhesh710@gmail.com) [![Instagram](https://raw.githubusercontent.com/snakode/snakode/master/instagram.png)](https://www.instagram.com/riddhesh_jangid/)
