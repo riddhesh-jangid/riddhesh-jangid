@@ -13,3 +13,6 @@
 :pencil: Try to build rhymes <br/> 
 :soccer: Football and Cricket <br/> 
 :scroll: Learning new skills <br/> 
+
+## Social Connectivity
+[![Linkedin](https://raw.githubusercontent.com/snakode/snakode/master/linkedin.png)](https://www.linkedin.com/in/riddhesh-jangid-27b90814a/)
