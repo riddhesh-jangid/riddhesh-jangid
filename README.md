@@ -18,4 +18,4 @@
 [![Linkedin](https://raw.githubusercontent.com/snakode/snakode/master/linkedin.png)](https://www.linkedin.com/in/riddhesh-jangid-27b90814a/) [![Gmail](https://raw.githubusercontent.com/snakode/snakode/master/gmail.png)](mailto:riddhesh710@gmail.com) [![Instagram](https://raw.githubusercontent.com/snakode/snakode/master/instagram.png)](https://www.instagram.com/riddhesh_jangid/)
 
 ___
-Icons credit : [icons8](https://icons8.com/) [![Icons8](https://raw.githubusercontent.com/snakode/snakode/master/icons.png)](https://icons8.com/)
+Icons credit : [icons8](https://icons8.com/) [![Icons8](https://raw.githubusercontent.com/snakode/snakode/master/icons.png)](https://icons8.com/) 
