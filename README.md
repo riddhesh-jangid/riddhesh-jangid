@@ -7,13 +7,6 @@
 
 ![Ethereum](https://raw.githubusercontent.com/snakode/snakode/master/ethereum.png)![Javascript](https://raw.githubusercontent.com/snakode/snakode/master/javascript.png)![Chrome](https://raw.githubusercontent.com/snakode/snakode/master/chrome.png)![Gimp](https://raw.githubusercontent.com/snakode/snakode/master/gimp.png)
 
-## Things I like to do
-
-:guitar: Run my fingers on guitar <br/> 
-:pencil: Try to build rhymes <br/> 
-:soccer: Football and Cricket <br/> 
-:scroll: Learning new skills <br/> 
-
 ## Social Connectivity
 [![Linkedin](https://raw.githubusercontent.com/snakode/snakode/master/linkedin.png)](https://www.linkedin.com/in/riddhesh-jangid-27b90814a/) [![Gmail](https://raw.githubusercontent.com/snakode/snakode/master/gmail.png)](mailto:riddhesh710@gmail.com) [![Instagram](https://raw.githubusercontent.com/snakode/snakode/master/instagram.png)](https://www.instagram.com/riddhesh_jangid/)
 
