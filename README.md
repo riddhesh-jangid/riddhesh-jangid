@@ -1,6 +1,6 @@
 ### RIDDHESH JANGID
 #### :computer: Data Analyst
-##### I have been working as Data Analyst in Infosys. I accept freelacing work for same and chrome extension. 
+##### I have been working as Data Analyst. I accept freelacing work for same and for chrome extension.
 <hr/>
  
 
