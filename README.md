@@ -1,11 +1,11 @@
 ### RIDDHESH JANGID
 #### :computer: Data Analyst
-
- <hr/>
+##### I have been working as Data Analyst in Infosys. I accept freelacing work for same and chrome extension. 
+<hr/>
  
 
 
-## Social Connectivity
+### Social Connectivity
 [![Linkedin](https://raw.githubusercontent.com/snakode/snakode/master/linkedin.png)](https://www.linkedin.com/in/riddhesh-jangid-27b90814a/) [![Gmail](https://raw.githubusercontent.com/snakode/snakode/master/gmail.png)](mailto:riddhesh710@gmail.com)
 
 ___
