@@ -1,6 +1,5 @@
 ### RIDDHESH JANGID
 #### :computer: Data Analyst
-##### I have been working as Data Analyst
 <hr/>
  
 
