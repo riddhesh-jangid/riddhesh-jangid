@@ -1,6 +1,6 @@
 ### RIDDHESH JANGID
 #### :computer: Data Analyst
-##### I have been working as Data Analyst. I accept freelacing work for same and for chrome extension.
+##### I have been working as Data Analyst
 <hr/>
  
 
